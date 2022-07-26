@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fe-sprint-my-agora-states-server-reference-/static/css/main.7d223e70.css",
+    "main.js": "/fe-sprint-my-agora-states-server-reference-/static/js/main.c9da203f.js",
+    "index.html": "/fe-sprint-my-agora-states-server-reference-/index.html",
+    "main.7d223e70.css.map": "/fe-sprint-my-agora-states-server-reference-/static/css/main.7d223e70.css.map",
+    "main.c9da203f.js.map": "/fe-sprint-my-agora-states-server-reference-/static/js/main.c9da203f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d223e70.css",
+    "static/js/main.c9da203f.js"
+  ]
+}
